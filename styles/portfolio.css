@@ -156,3 +156,67 @@ main {
   font-style: normal;
   font-weight: 400;
 }
+
+.resume-container {
+  display: flex;
+  gap: 24px;
+}
+
+.resume-item{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+
+.resume-title {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  
+}
+
+.education-title {
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  color: #474747;
+ 
+}
+.resume .title {
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  color: #474747;
+  margin-top: 20px;
+}
+
+.resume .sub-title {
+  color: #757575;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.resume .description {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  color: #757575;
+}
+
+.experience-title {
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  color: #474747;
+}
+
+.btn{
+  margin-top: 50px;
+  text-align: center;
+}
